@@ -1,17 +1,15 @@
-# TREC 2017 Core Track
+# TREC 2018 Core Track
 
 ### Mailing list
 
 * https://groups.google.com/d/forum/trec-core
 
 ### TIMETABLE
-+ Collection available to participants: February, 2017 [Done]
-+ Topics available to participants: Beginning of May [Done]
-+ The evaluation measure will be decided: Beginning of May [Done]
-+ Phase 1 runs due from participants: June 18, 2017 [Done]
-+ Phase 2 runs due from participants: July 31, 2017
-+ TREC 2017 notebook paper deadline: mid-October
-+ TREC 2017 conference: November 14 - 17, 2017
++ Collection available to participants: February
++ Topics available to participants: April
++ Runs due from participants: TBD
++ TREC 2018 notebook paper deadline: mid-October
++ TREC 2018 conference: TBD
 
 ### INTRODUCTION
 The primary goals of the proposed core track are three-fold: (a) to bring together the community in a common track that could lead to a diverse set of participating runs, (b) to build one or more new test collections using more recently created documents, and (c) to establish a (new) test collection construction methodology that avoids the pitfalls of depth-k pooling.
@@ -31,29 +29,17 @@ The participants task will be ad-hoc search. Automatic and manual runs are encou
 
 ### DATA AND RESOURCES
 
-**Collection**: NYTimes corpus (https://catalog.ldc.upenn.edu/ldc2008t19) – Cost: $300
+**Collection**: TBD
 
-**Topics**: The topics provided are the TREC Robust Track topics. Most of the topics have have remained the same but some have been revised to reflect the time past (e.g. some descriptions and narratives were turned into historical topics, while others were brought up todate).
-
-There are two sets of topics:
-1. Topics to be judged by NIST (and crowd workers)
-2. Topics to be judged by crowd workers only
-
-Submission should either be either on the 50 topics to be judged by NIST or on all 250 topics to be judged by crowd workers. Any other combination of topics will be considered invalid.
+**Topics**: New topics will be developed for the collection.
 
 **Relevance Assessments**:
-1. NIST assessors (50 queries)
-2. Crowdsourcing (250 queries)
+1. NIST assessors (50 topics)
+2. Crowdsourcing (50 topics)
 
 ### SUBMISSION GUIDELINES
 
-**Phase 1.** By *June 18, 2017*, a site may submit up to 3 submissions of 10,000 top-ranked results. NIST will make a good-faith effort to judge the top-k documents in the site-specified preferred n runs. The values of k and n will be determined by NIST on or around June 19th based on the total number of runs submitted and the overlap in the retrieved documents. Runs will be ranked in order of preference by the site at the time of submission. Every site will be guaranteed that at least one run will be judged to depth k.
- 
-**Phase 2a**. By *July 31, 2017*, a site may submit up to 7 additional submissions of 10,000 top-ranked results. Note that these additional runs may be submitted at any point, though if they are submitted after June 18th they will not be included in the initial judging.
- 
-**Phase 2b**. Sometime after the final set is submitted, all submitted runs (from both phases) will be ranked by a combination of precision at k (high quality runs) and the number of unique relevant documents in the top k (unusual runs), computed using both NIST judgments and possibly crowdsourced judgments. (The actual formula needs to be discussed.) NIST will judge the best-scoring m runs to a depth k’ deeper than k, with the values of m and k’ will be determined by NIST based on the total number of submitted and high-scoring runs and the overlap in the retrieved documents. There will be no guarantee that any particular run will be judged in this phase. In particular, there will be no guarantee that every site will have a run with deeper judgments.
- 
-Note that the scoring of runs in Phase 2 is based upon judgments from Phase 1. That means that runs that were not selected for judging in Phase 1 (either because they were not in the preferred n runs from a site in Phase 1 or because they were submitted in Phase 2) are less likely to be selected for deeper judgment. This challenge is inherent in the approach being taken.
+TBD
 
 ---
 
@@ -86,7 +72,7 @@ NIST will release a routine that checks for common errors in the result files in
 
 **Assessment**: The pooling method is TBD.
 
-**Evaluation**: Participating runs will be evaluated in terms of (a) their ability to rank relevant documents at the top of the returned list, and (b) their ability to contribute unique relevant documents to the pool. A exact evaluation measure/method is TBD.
+**Evaluation**: Participating runs will be evaluated in terms of (a) their ability to rank relevant documents at the top of the returned list, and (b) their ability to contribute unique relevant documents to the pool.
 
 ### Coordinators
 
