@@ -5,9 +5,9 @@
 * https://groups.google.com/d/forum/trec-core
 
 ### TIMETABLE
-+ Collection available to participants: February
++ Collection available to participants: Now available at http://trec.nist.gov/data/wapost/
 + Topics available to participants: April
-+ Runs due from participants: TBD
++ Runs due from participants: mid-August
 + TREC 2018 notebook paper deadline: mid-October
 + TREC 2018 conference: TBD
 
@@ -29,9 +29,10 @@ The participants task will be ad-hoc search. Automatic and manual runs are encou
 
 ### DATA AND RESOURCES
 
-**Collection**: TBD
+**Collection**: TREC Washington Post Corpus
+The TREC Washington Post Corpus contains 608,180 news articles and blog posts from January 2012 through August 2017. The articles are stored in JSON format. Information about obtaining the collection can be found at http://trec.nist.gov/data/wapost/ 
 
-**Topics**: New topics will be developed for the collection.
+**Topics**: Two sets of topics will be used: (a) 25 topics from the 2017 Common Core track and (b) 25 new topics to be developed by the NIST assessors.
 
 **Relevance Assessments**:
 1. NIST assessors (50 topics)
