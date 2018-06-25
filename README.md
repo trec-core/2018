@@ -7,7 +7,7 @@
 ### TIMETABLE
 + Collection available to participants: Now available at http://trec.nist.gov/data/wapost/
 + Topics available to participants: April
-+ Runs due from participants: mid-August
++ Runs due from participants: 21 August 2018
 + TREC 2018 notebook paper deadline: mid-October
 + TREC 2018 conference: TBD
 
@@ -35,8 +35,7 @@ The TREC Washington Post Corpus contains 608,180 news articles and blog posts fr
 **Topics**: Two sets of topics will be used: (a) 25 topics from the 2017 Common Core track and (b) 25 new topics to be developed by the NIST assessors.
 
 **Relevance Assessments**:
-1. NIST assessors (50 topics)
-2. Crowdsourcing (50 topics)
+NIST assessors (50 topics)
 
 ### SUBMISSION GUIDELINES
 
